@@ -7,3 +7,5 @@ behind the public domain is to encourage the dissemination and advancement of kn
 culture by allowing for the free exchange of ideas and information. Understanding the public  
 domain is important for anyone who wishes to make use of existing creative works without  
 running afoul of intellectual property laws.  
+
+[Apply to join the Public Domain and begin creating works under Public Domain.](https://github.com/orgs/publicdomain-nocopyright/discussions)
