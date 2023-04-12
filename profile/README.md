@@ -9,4 +9,4 @@ domain is important for anyone who wishes to make use of existing creative works
 running afoul of intellectual property laws.  
 
 [Apply to join the Public Domain and begin creating works under Public Domain.  
-Discuss Public Domain and more.](https://github.com/orgs/publicdomain-nocopyright/discussions)
+Discuss Public Domain, suggest things, ask questions and more.](https://github.com/orgs/publicdomain-nocopyright/discussions)
