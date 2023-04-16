@@ -9,7 +9,8 @@ domain is important for anyone who wishes to make use of existing creative works
 running afoul of intellectual property laws.  
 
 [Apply to join the Public Domain and begin creating works under Public Domain.](https://auto-invitation.onrender.com)  
-Note:  If you are the first person to apply within a 15-minute window, it may take up to **three minutes for the page to load**.
+> Note:  If you are the first person to apply within a 15-minute window, it may take up to **three minutes for the page to load**.  
+> Note:  Source code is disclosed here. https://github.com/publicdomain-nocopyright/github-autoinvite-to-organisation  
 * It will allow you to create and delete your own repositories under this organisation.
 * You will be shown as part of Public Domain organisation and it will be your nice badge of support for Public Domain.
 
