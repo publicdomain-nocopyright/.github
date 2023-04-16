@@ -8,7 +8,7 @@ culture by allowing for the free exchange of ideas and information. Understandin
 domain is important for anyone who wishes to make use of existing creative works without  
 running afoul of intellectual property laws.  
 
-[Apply to join the Public Domain and begin creating works under Public Domain.](https://auto-invitation-test.onrender.com)  
+[Apply to join the Public Domain and begin creating works under Public Domain.](https://auto-invitation.onrender.com)  
 Note:  If you are the first person to apply within a 15-minute window, it may take up to **three minutes for the page to load**.
 
 [Discuss Public Domain, suggest things, ask questions and more.](https://github.com/orgs/publicdomain-nocopyright/discussions)
