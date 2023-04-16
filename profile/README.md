@@ -16,3 +16,5 @@ running afoul of intellectual property laws.
    * [Share ideas on how to improve Public Domain.](https://github.com/orgs/publicdomain-nocopyright/discussions/categories/ideas)
    * [General Talk, chat about any things.](https://github.com/orgs/publicdomain-nocopyright/discussions/categories/general)
    * [Announce your project to Public Domain Community.](https://github.com/orgs/publicdomain-nocopyright/discussions/categories/show-and-tell)
+
+You can influence this open and unrestricted Public Domain project and it depends on you to be critical and improve it for overall greatness and usefulness.
