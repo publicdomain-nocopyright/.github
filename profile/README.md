@@ -11,4 +11,7 @@ running afoul of intellectual property laws.
 [Apply to join the Public Domain and begin creating works under Public Domain.](https://auto-invitation.onrender.com)  
 Note:  If you are the first person to apply within a 15-minute window, it may take up to **three minutes for the page to load**.
 
-[Discuss Public Domain, suggest things, ask questions and more.](https://github.com/orgs/publicdomain-nocopyright/discussions)
+[Discuss Public Domain, suggest things, ask questions and more.](https://github.com/orgs/publicdomain-nocopyright/discussions)  
+   * [Having questions or want to research answer on your own?](https://github.com/orgs/publicdomain-nocopyright/discussions/categories/q-a)
+   * [Share ideas on how to improve Public Domain.](https://github.com/orgs/publicdomain-nocopyright/discussions/categories/ideas)
+   * [General Talk, chat about any things.](https://github.com/orgs/publicdomain-nocopyright/discussions/categories/general)
